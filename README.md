@@ -1,5 +1,5 @@
 # Retenção de Startup Tecnológica - Realizar uma análise por cohort para medir a retenção de um Saas Tecnológico
-## Estudo de caso proposto em detalhes no [Projeto 2 da Certificado Datos Laboratoria]([https://www.coursera.org/professional-certificates/analise-de-dados-do-google](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-2-reteno-de-startup-tecnolgica))
+## Estudo de caso proposto em detalhes no [Projeto 2 da Certificado Datos Laboratoria](https://www.kaggle.com/datasets/datacertlaboratoria/projeto-2-reteno-de-startup-tecnolgica)
 **Ferramentas utilizadas:** Microsoft Power BI, Power Query, linguagem M, DAX e Microsoft PowerPoint.<br/>
 
 ![Dashboard de cohort do estudo de caso da Cloud Finance](/imgs/print1.png)
