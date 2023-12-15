@@ -9,7 +9,7 @@ Apresentando a vocês **mais uma adição ao meu portfólio de análise de dados
 A **Cloud Finance** é uma startup *fictícia* de software de gestão de despesas em nuvem, que opera através de assinatura mensal.</br>
 
 ### Sobre o projeto:
-A proposta é traçar uma análise de retenção de cohort dos últimos 24 meses. E após isso, responder à 3 perguntas de negócio:
+A proposta é traçar uma análise de retenção de cohort entre 2019 e 2020. E após isso, responder à 3 perguntas de negócio:
 
 - Você acha que deveríamos triplicar nosso investimento em marketing com aquisição de usuários?
 - Por que você considera isso? Mostre claramente seus resultados suportados por uma apresentação.
